@@ -30,4 +30,4 @@ sh ./scripts/preprocess/cache_nuplan_data.sh
 ```
 
 ## Nexus-data
-To enhance the model's ability to handle safety-critical scenarios such as cut-ins, rear-end collisions, and others, we constructed a dedicated safety-critical dataset named Nexus-data. This dataset follows the same format as the Nexus cached dataset. We have made it publicly available, and you can access it on [Hugging Face](https://huggingface.co/datasets/OpenDriveLab-org/Nexus-data/tree/main). More details about the dataset can be found in the Nexus paper.
+To enhance the model's ability to handle safety-critical scenarios such as cut-ins, rear-end collisions, and others, we constructed a dedicated safety-critical dataset named Nexus-data. This dataset follows the same format as the Nexus cached dataset. We have made it publicly available, and you can access it on [Hugging Face](https://huggingface.co/datasets/OpenDriveLab-org/Nexus_data/tree/main). More details about the dataset can be found in the Nexus paper.

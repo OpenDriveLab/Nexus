@@ -109,10 +109,10 @@ Nexus-Data is induced from real-world scenarios, in which we can obtain real-wor
 All assets and code in this repository are under the [Apache 2.0 license](./LICENSE) unless specified otherwise. The data is under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Please consider citing our paper and project if they help your research.
 
 ```BibTeX
-@article{zhou2024decoupled,
+@inproceedings{zhou2025nexus,
   title={Decoupled Diffusion Sparks Adaptive Scene Generation},
   author={Zhou, Yunsong and Ye, Naisheng and Ljungbergh, William and Li, Tianyu and Yang, Jiazhi and Yang, Zetong and Zhu, Hongzi and Petersson, Christoffer and Li, Hongyang},
-  journal={arXiv preprint arXiv:2504.10485},
+  booktitle={ICCV},
   year={2025}
 }
 ```
